@@ -1,3 +1,4 @@
+
 def anagram(str1,str2):
     str1 = str1.replace(' ','').lower()
     str2 = str2.replace(' ', '').lower()
@@ -6,13 +7,14 @@ def anagram(str1,str2):
 
 def anagram2(str1,str2):
 
-    #edge case check for anagram
+    #edge cases check for anagram
     str1 = str1.replace(' ', '').lower()
     str2 = str2.replace(' ', '').lower()
 
     if len(str1) != len(str2):
         return False
-    count = {} # creating the empty dictionary- to check frequency of each letter in the str
+    count = {}
+    # creating the empty dictionary- to check frequency of each letter in the str
     # for checking the count of each letters in the str1
 
     for letter in str1:
