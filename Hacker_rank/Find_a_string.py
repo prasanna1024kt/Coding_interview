@@ -15,7 +15,7 @@ def string_find(str1,sub_string):
 
 if __name__ == "__main__":
 
-    string1 ='ininini'
+    string1 ='ininin'
     s2='ini'
 
     print(string_find(string1,s2))
