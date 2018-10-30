@@ -14,6 +14,7 @@ def missing(list1):
 #  Below function will returns the if missing element is more than omne
 def missing_elements(list1):
     #sorted(list1)
+
     list2 = set(range(list1[0],list1[-1]+1))
     return list2-set(list1)
 
