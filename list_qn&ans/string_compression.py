@@ -25,6 +25,7 @@ def string_comp(strings):
             cnt = 1
         i +=1
     empty_string = empty_string+strings[i-1]+str(cnt)
+
     print empty_string
 
 if __name__ == "__main__":

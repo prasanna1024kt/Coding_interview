@@ -21,6 +21,5 @@ def is_power(num):
 if is_power(n):
     n=n/2
 else :
-    
-power_of_two(n,t)       
+    power_of_two(n,t)
     
