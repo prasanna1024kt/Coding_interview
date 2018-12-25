@@ -1,5 +1,11 @@
 
 def anagram(str1,str2):
+    """
+    
+    :param str1: String 1 value
+    :param str2: String 2 value
+    :return:
+    """
     str1 = str1.replace(' ','').lower()
     str2 = str2.replace(' ', '').lower()
 
