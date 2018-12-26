@@ -1,14 +1,18 @@
-.. coding-practice documentation master file, created by
-   sphinx-quickstart on Tue Dec 25 19:12:23 2018.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+.. coding-practice documentation master file, created by sphinx-quickstart on Tue Dec 25 19:12:23 2018.
 
-Welcome to coding-practice's documentation!
+
+ Coding-Practice
+
 ===========================================
+
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+
+
+   code
+
 
 
 
@@ -18,3 +22,5 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+
+
