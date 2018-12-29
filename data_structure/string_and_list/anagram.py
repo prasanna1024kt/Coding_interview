@@ -2,12 +2,16 @@
 def anagram(str1,str2):
     """
     Anagram :
+
              An anagram is a word or phrase formed by changing the order of the letters in another word or phrase.
              For example, 'triangle' is an anagram of 'integral'.
 
+
     :param str1: String 1 value
     :param str2: String 2 value
-    :return:
+    :return: True
+
+
     """
     str1 = str1.replace(' ','').lower()
     str2 = str2.replace(' ', '').lower()
