@@ -2,14 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cce07337-eee4-4759-ae5e-87d513662de0" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/performace_analysis/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Twitter/email-check.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Twitter/realtime-data-extraction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_structure/Tree/tree-implementation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_structure/stack queue linked list/paren-balance-check.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_structure/string_and_list/longest-subarray.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_structure/string_and_list/small-second.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/performace_analysis/cacheexample.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/performace_analysis/profilng.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/performace_analysis/pythonclass.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/performace_analysis/speed-check.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problem-solving/EgyptFraction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problem-solving/extract_mail.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problem-solving/hashing-3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problem-solving/hashing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problem-solving/hasing-2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problem-solving/palindrome-check.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problem-solving/sampledataset.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problem-solving/trending-word-check.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Data_structure_and_algorithm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Data_structure_and_algorithm.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_structure/string_and_list/anagram.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_structure/string_and_list/anagram.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/performace_analysis/time_analysis/cprofile_program.py" beforeDir="false" afterPath="$PROJECT_DIR$/performace_analysis/cprofile_program.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/performace_analysis/time_analysis/decorator_to_time_analysis.py" beforeDir="false" afterPath="$PROJECT_DIR$/performace_analysis/decorator_to_time_analysis.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/performace_analysis/decorator_to_time_analysis.py" beforeDir="false" afterPath="$PROJECT_DIR$/performace_analysis/decorator_to_time_analysis.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sphinx/code.rst" beforeDir="false" afterPath="$PROJECT_DIR$/sphinx/code.rst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sphinx/index.rst" beforeDir="false" afterPath="$PROJECT_DIR$/sphinx/index.rst" afterDir="false" />
     </list>
+    <ignored path="$PROJECT_DIR$/.idea/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,44 +79,56 @@
     <session id="612665058">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="12" />
+          <entry key="project.closed" value="30" />
           <entry key="project.open.time.1" value="4" />
-          <entry key="project.open.time.2" value="1" />
-          <entry key="project.open.time.4" value="1" />
-          <entry key="project.open.time.5" value="2" />
-          <entry key="project.open.time.6" value="1" />
-          <entry key="project.open.time.7" value="1" />
-          <entry key="project.open.time.8" value="2" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.2" value="2" />
+          <entry key="project.open.time.4" value="2" />
+          <entry key="project.open.time.5" value="5" />
+          <entry key="project.open.time.6" value="3" />
+          <entry key="project.open.time.7" value="5" />
+          <entry key="project.open.time.8" value="3" />
           <entry key="project.open.time.9" value="2" />
-          <entry key="project.opened" value="14" />
+          <entry key="project.opened" value="32" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="7" />
-          <entry key="py" value="5129" />
-          <entry key="rst" value="700" />
+          <entry key="py" value="13237" />
+          <entry key="rst" value="713" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="7" />
-          <entry key="Python" value="5129" />
-          <entry key="ReST" value="700" />
+          <entry key="Python" value="13237" />
+          <entry key="ReST" value="713" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="buildinfo" value="1" />
+          <entry key="csv" value="10" />
           <entry key="html" value="3" />
-          <entry key="py" value="37" />
-          <entry key="rst" value="2" />
+          <entry key="profile" value="1" />
+          <entry key="py" value="69" />
+          <entry key="rst" value="4" />
+          <entry key="txt" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
+          <entry key="CSV" value="6" />
           <entry key="HTML" value="3" />
-          <entry key="Python" value="37" />
-          <entry key="ReST" value="2" />
+          <entry key="PLAIN_TEXT" value="9" />
+          <entry key="Python" value="69" />
+          <entry key="ReST" value="4" />
         </counts>
       </usages-collector>
     </session>
@@ -108,74 +136,66 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data_structure/stack queue linked list/circular-linked-list.py">
+        <entry file="file://$PROJECT_DIR$/problem-solving/palindrome-check.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="480">
+              <caret line="32" column="33" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="33" />
               <folding>
-                <marker date="1544609541949" expanded="true" signature="170:175" ph="..." />
-                <marker date="1544609541949" expanded="true" signature="254:558" ph="..." />
+                <marker date="1550540364922" expanded="true" signature="129:130" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data_structure/stack queue linked list/circular_linked_list_class.py">
+        <entry file="file://$PROJECT_DIR$/problem-solving/hashing.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1095">
-              <caret line="73" selection-start-line="73" selection-end-line="73" />
+            <state relative-caret-position="493">
+              <caret line="108" column="14" selection-start-line="108" selection-start-column="14" selection-end-line="108" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/problem-solving/hasing-2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="208">
+              <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
               <folding>
-                <marker date="1545212930426" expanded="true" signature="19:20" ph="..." />
-                <marker date="1545212930426" expanded="true" signature="19:25" ph="..." />
-                <marker date="1545212930426" expanded="true" signature="134:135" ph="..." />
-                <marker date="1545212930426" expanded="true" signature="134:140" ph="..." />
-                <marker date="1545212930426" expanded="true" signature="211:221" ph="..." />
-                <marker date="1545212930426" expanded="true" signature="1322:1332" ph="..." />
+                <marker date="1550574519981" expanded="true" signature="27:33" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data_structure/string_and_list/anagram.py">
+        <entry file="file://$PROJECT_DIR$/problem-solving/hashing-3.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" selection-start-line="13" selection-end-line="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sphinx/conf.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1897">
-              <caret line="16" column="39" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
+            <state relative-caret-position="435">
+              <caret line="29" column="14" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="14" />
               <folding>
-                <element signature="e#564#573#0" expanded="true" />
+                <marker date="1550576902879" expanded="true" signature="32:144" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/code.html">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sphinx/index.rst">
-          <provider selected="true" editor-type-id="restructured-text-editor" />
+        <entry file="file://$PROJECT_DIR$/problem-solving/EgyptFraction.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="30" selection-start-column="22" selection-end-column="30" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/sphinx/code.rst">
-          <provider selected="true" editor-type-id="restructured-text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sphinx/index.html">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/problem-solving/extract_mail.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="368">
+              <caret line="36" column="32" lean-forward="true" selection-start-line="36" selection-start-column="32" selection-end-line="36" selection-end-column="32" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -193,28 +213,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ARRAYs/anagram.py" />
-        <option value="$PROJECT_DIR$/ARRAYs/array_pair_sum.py" />
-        <option value="$PROJECT_DIR$/ARRAYs/missing_element_check.py" />
-        <option value="$PROJECT_DIR$/ARRAYs/largest_continouse_sum.py" />
-        <option value="$PROJECT_DIR$/list_qn&amp;ans/common_element.py" />
-        <option value="$PROJECT_DIR$/list_qn&amp;ans/List Comprehensions_HR.py" />
-        <option value="$PROJECT_DIR$/Hacker_rank/Decorators_2_name_directory.py" />
-        <option value="$PROJECT_DIR$/Hacker_rank/std_Mobile_no_decorators.py" />
-        <option value="$PROJECT_DIR$/Stacks/stack_implementation.py" />
-        <option value="$PROJECT_DIR$/Stacks&amp;Queue/Queue.py" />
-        <option value="$PROJECT_DIR$/Stacks&amp;Queue/Deque.py" />
-        <option value="$PROJECT_DIR$/Stacks&amp;Queue/nge_GG.py" />
-        <option value="$PROJECT_DIR$/Stacks&amp;Queue/next_greater_element.py" />
-        <option value="$PROJECT_DIR$/data_structure/linked_list.py" />
-        <option value="$PROJECT_DIR$/Hacker_rank/validate_phone_number.py" />
-        <option value="$PROJECT_DIR$/list_qn&amp;ans/anagram.py" />
-        <option value="$PROJECT_DIR$/data_structure/missing_element.py" />
-        <option value="$PROJECT_DIR$/Hacker_rank/oper.py" />
-        <option value="$PROJECT_DIR$/HR-10-days-statistics/readme" />
-        <option value="$PROJECT_DIR$/HR-10-days-statistics/Day-0.py" />
-        <option value="$PROJECT_DIR$/HR-10-days-statistics/weight-mean.py" />
-        <option value="$PROJECT_DIR$/HR-10-days-statistics/day-1-quariles.py" />
         <option value="$PROJECT_DIR$/HR-10-days-statistics/interqaurtile_range.py" />
         <option value="$PROJECT_DIR$/HR-10-days-statistics/std_deviation.py" />
         <option value="$PROJECT_DIR$/HR-10-days-statistics/README.md" />
@@ -239,14 +237,40 @@
         <option value="$PROJECT_DIR$/sphinx/conf.py" />
         <option value="$PROJECT_DIR$/sphinx/index.rst" />
         <option value="$PROJECT_DIR$/data_structure/string_and_list/anagram.py" />
+        <option value="$PROJECT_DIR$/data_structure/string_and_list/array_pair_sum.py" />
         <option value="$PROJECT_DIR$/sphinx/code.rst" />
+        <option value="$PROJECT_DIR$/performace_analysis/measuring_time.py" />
+        <option value="$PROJECT_DIR$/data_structure/Tree/tree-implementation.py" />
+        <option value="$PROJECT_DIR$/performace_analysis/check-memory.py" />
+        <option value="$PROJECT_DIR$/performace_analysis/checkfile.py" />
+        <option value="$PROJECT_DIR$/performace_analysis/generator.py" />
+        <option value="$PROJECT_DIR$/performace_analysis/clean_csv_file.py" />
+        <option value="$PROJECT_DIR$/performace_analysis/clean-file-pandas.py" />
+        <option value="$PROJECT_DIR$/data_structure/string_and_list/longest-subarray.py" />
+        <option value="$PROJECT_DIR$/performace_analysis/pythonclass.py" />
+        <option value="$PROJECT_DIR$/data_structure/stack queue linked list/paren-balance-check.py" />
+        <option value="$PROJECT_DIR$/data_structure/string_and_list/small-second.py" />
+        <option value="$PROJECT_DIR$/performace_analysis/profilng.py" />
+        <option value="$PROJECT_DIR$/performace_analysis/decorator_to_time_analysis.py" />
+        <option value="$PROJECT_DIR$/performace_analysis/speed-check.py" />
+        <option value="$PROJECT_DIR$/performace_analysis/cacheexample.py" />
+        <option value="$PROJECT_DIR$/Twitter/realtime-data-extraction.py" />
+        <option value="$PROJECT_DIR$/Twitter/email-check.py" />
+        <option value="$PROJECT_DIR$/problem-solving/trending-word-check.py" />
+        <option value="$PROJECT_DIR$/problem-solving/modulas-check.py" />
+        <option value="$PROJECT_DIR$/problem-solving/palindrome-check.py" />
+        <option value="$PROJECT_DIR$/problem-solving/hashing.py" />
+        <option value="$PROJECT_DIR$/problem-solving/hasing-2.py" />
+        <option value="$PROJECT_DIR$/problem-solving/hashing-3.py" />
+        <option value="$PROJECT_DIR$/problem-solving/EgyptFraction.py" />
+        <option value="$PROJECT_DIR$/problem-solving/extract_mail.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="805" />
+    <option name="height" value="800" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -265,12 +289,7 @@
             <path>
               <item name="Data_structure_and_algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="Data_structure_and_algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="data_structure" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Data_structure_and_algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Data_structure_and_algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="sphinx" type="462c0819:PsiDirectoryNode" />
+              <item name="problem-solving" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -285,13 +304,14 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/performace_analysis/source_file" />
       <recent name="$PROJECT_DIR$/performace_analysis" />
       <recent name="$PROJECT_DIR$/data_structure/stack queue linked list" />
       <recent name="$PROJECT_DIR$/data_structure/string_and_list" />
       <recent name="$PROJECT_DIR$/data_structure" />
-      <recent name="C:\prasanna_git\coding_interview\Hacker_rank" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/problem-solving" />
       <recent name="$PROJECT_DIR$/HR-10-days-statistics/images" />
       <recent name="$PROJECT_DIR$/HR-10-days-statistics" />
       <recent name="C:\prasanna_git\coding_interview\ARRAYs" />
@@ -309,7 +329,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python docs.docutils task in index.rst">
+  <component name="RunManager" selected="Python.extract_mail">
     <configuration default="true" type="OdpsPythonConfigurationType" factoryName="MaxCompute Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -334,6 +354,27 @@
       <option name="RECORD_LIMIT" value="100" />
       <method />
     </configuration>
+    <configuration name="EgyptFraction" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Data_structure_and_algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/problem-solving" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/problem-solving/EgyptFraction.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="Coding practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -355,7 +396,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="api" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="extract_mail" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Data_structure_and_algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -363,11 +404,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/problem-solving" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/api.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/problem-solving/extract_mail.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -376,7 +417,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="circular_linked_list_class" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="hashing-3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Data_structure_and_algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -384,11 +425,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data_structure/stack queue linked list" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/problem-solving" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data_structure/stack queue linked list/circular_linked_list_class.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/problem-solving/hashing-3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -397,7 +438,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="cprofile_program" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="hashing" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Data_structure_and_algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -405,11 +446,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/performace_analysis/time_analysis" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/problem-solving" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/performace_analysis/cprofile_program.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/problem-solving/hashing.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -418,7 +459,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="spark-test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="hasing-2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Data_structure_and_algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -426,11 +467,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Hacker_rank" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/problem-solving" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hacker_rank/spark-test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/problem-solving/hasing-2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -448,22 +489,6 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <method v="2" />
-    </configuration>
-    <configuration name="docutils task in index.rst" type="docs" factoryName="Docutils task" temporary="true">
-      <module name="Data_structure_and_algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sphinx" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="docutils_input_file" value="$PROJECT_DIR$/sphinx/index.rst" />
-      <option name="docutils_output_file" value="$PROJECT_DIR$/sphinx/index.html" />
-      <option name="docutils_params" value="" />
-      <option name="docutils_task" value="rst2html" />
-      <option name="docutils_open_in_browser" value="true" />
       <method v="2" />
     </configuration>
     <configuration default="true" type="tests" factoryName="Doctests">
@@ -543,19 +568,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.cprofile_program" />
-      <item itemvalue="Python.api" />
-      <item itemvalue="Python.circular_linked_list_class" />
-      <item itemvalue="Python.spark-test" />
-      <item itemvalue="Python docs.docutils task in index.rst" />
+      <item itemvalue="Python.hashing" />
+      <item itemvalue="Python.hasing-2" />
+      <item itemvalue="Python.hashing-3" />
+      <item itemvalue="Python.EgyptFraction" />
+      <item itemvalue="Python.extract_mail" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python docs.docutils task in index.rst" />
-        <item itemvalue="Python.spark-test" />
-        <item itemvalue="Python.circular_linked_list_class" />
-        <item itemvalue="Python.cprofile_program" />
-        <item itemvalue="Python.api" />
+        <item itemvalue="Python.extract_mail" />
+        <item itemvalue="Python.hashing-3" />
+        <item itemvalue="Python.EgyptFraction" />
+        <item itemvalue="Python.hashing" />
+        <item itemvalue="Python.hasing-2" />
       </list>
     </recent_temporary>
   </component>
@@ -573,19 +598,20 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="805" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="800" extended-state="1" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27131784" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2410148" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Project Explorer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="DB Browser" order="4" />
       <window_info id="Job Explorer" order="5" />
+      <window_info id="Query Editor" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49964765" visible="true" weight="0.3253857" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3986111" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32909605" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49964765" visible="true" weight="0.32485875" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3983051" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -595,7 +621,11 @@
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5010571" side_tool="true" weight="0.32916668" />
       <window_info anchor="bottom" id="Version Control" order="11" />
       <window_info anchor="bottom" id="Messages" order="12" />
-      <window_info anchor="bottom" id="Python Console" order="13" />
+      <window_info anchor="bottom" id="Python Console" order="13" weight="0.32909605" />
+      <window_info anchor="bottom" id="SFDX" order="14" />
+      <window_info anchor="bottom" id="Log Manager" order="15" />
+      <window_info anchor="bottom" id="Execute Anonymous" order="16" />
+      <window_info anchor="bottom" id="Salesforce" order="17" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -631,308 +661,254 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/docs/_sources/index.rst.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/_sources/code.rst.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/.buildinfo">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/code.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/performace_analysis/measuring_time.py" />
+    <entry file="file://$PROJECT_DIR$/sphinx/index.rst">
+      <provider selected="true" editor-type-id="restructured-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/performace_analysis/check-memory.py" />
+    <entry file="file://$PROJECT_DIR$/data_structure/stack queue linked list/circular_linked_list_class.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1095">
+          <caret line="73" selection-start-line="73" selection-end-line="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/performace_analysis/clean_file.csv" />
+    <entry file="file://$PROJECT_DIR$/performace_analysis/clean_file1.csv" />
+    <entry file="file://$PROJECT_DIR$/sphinx/conf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1185">
+          <caret line="80" column="23" selection-start-line="80" selection-start-column="14" selection-end-line="80" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/data_structure/string_and_list/array_pair_sum.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data_structure/string_and_list/common_element.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Hacker_rank/List Comprehensions.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="13" column="3" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web-scraping/lit.py" />
-    <entry file="file://$PROJECT_DIR$/data_structure/stack queue linked list/Deque.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data_structure/stack queue linked list/stack_implementation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="23" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data_structure/string_and_list/next_greater_element.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="33" column="33" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Hacker_rank/validate_phone_number.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Hacker_rank/oper.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HR-10-days-statistics/readme" />
-    <entry file="file://$PROJECT_DIR$/HR-10-days-statistics/Day-0-weight-mean.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HR-10-days-statistics/Day-0.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="20" lean-forward="true" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data_structure/stack queue linked list/Queue.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HR-10-days-statistics/day-1-quariles.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HR-10-days-statistics/interqaurtile_range.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HR-10-days-statistics/std_deviation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HR-10-days-statistics/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="262">
-            <caret line="29" column="7" selection-start-line="29" selection-start-column="7" selection-end-line="29" selection-end-column="7" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data_structure/list_gcs.py" />
-    <entry file="file://$PROJECT_DIR$/data_structure/list_gcs_files.py" />
-    <entry file="file://$PROJECT_DIR$/Hacker_rank/factorial.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="28" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Hacker_rank/Find_a_string.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="33" lean-forward="true" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Hacker_rank/prime.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="9" lean-forward="true" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Hacker_rank/problem3.py">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spark.py" />
-    <entry file="file://$PROJECT_DIR$/../../prasanna_kumar/d2p-docs/python/mot_api1.py">
+    <entry file="file://$PROJECT_DIR$/performace_analysis/checkfile.py" />
+    <entry file="file://$PROJECT_DIR$/performace_analysis/claning_file.csv" />
+    <entry file="file://$PROJECT_DIR$/performace_analysis/krux_file1.csv" />
+    <entry file="file://$PROJECT_DIR$/performace_analysis/krux_cleaned-file1.csv" />
+    <entry file="file://$PROJECT_DIR$/performace_analysis/krux_cleaned-file.csv" />
+    <entry file="file://$PROJECT_DIR$/performace_analysis/cleaning_krux.csv" />
+    <entry file="file://$PROJECT_DIR$/performace_analysis/clean_csv_file.py" />
+    <entry file="file://$PROJECT_DIR$/performace_analysis/cleaning_file.csv" />
+    <entry file="file://$PROJECT_DIR$/performace_analysis/source_file/krux_file.csv" />
+    <entry file="file://$PROJECT_DIR$/performace_analysis/clean-file-pandas.py" />
+    <entry file="file://$PROJECT_DIR$/performace_analysis/generator.py" />
+    <entry file="file://$PROJECT_DIR$/data_structure/string_and_list/longest-subarray.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="68" selection-start-line="8" selection-start-column="68" selection-end-line="8" selection-end-column="68" />
+        <state relative-caret-position="345">
+          <caret line="23" column="28" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data_structure/string_and_list/string.py">
+    <entry file="file://$PROJECT_DIR$/data_structure/Tree/tree-implementation.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="20" lean-forward="true" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+        <state relative-caret-position="398">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data_structure/string_and_list/string_compression.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="4" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/performace_analysis/decorator_to_time_analysis.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="31" column="11" lean-forward="true" selection-start-line="31" selection-start-column="11" selection-end-line="31" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api.py" />
-    <entry file="file://$PROJECT_DIR$/Hacker_rank/std_Mobile_no_decorators.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data_structure/stack queue linked list/reversal_linked_list.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="645">
-          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/performace_analysis/cprofile_program.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/sphinx/code.rst">
+      <provider selected="true" editor-type-id="restructured-text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/data_structure/string_and_list/second_largest_smallest_no.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="281">
-          <caret line="28" column="28" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
+        <state relative-caret-position="398">
+          <caret line="28" column="42" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="42" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data_structure/string_and_list/nge_GG.py">
+    <entry file="file://$PROJECT_DIR$/data_structure/string_and_list/small-second.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-229">
-          <caret line="17" column="26" selection-start-line="13" selection-end-line="17" selection-end-column="26" />
+        <state relative-caret-position="300">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data_structure/string_and_list/missing_element.py">
+    <entry file="file://$PROJECT_DIR$/performace_analysis/pythonclass.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+        <state relative-caret-position="795">
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_structure/string_and_list/anagram.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/data_structure/string_and_list/largest_continouse_sum.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Hacker_rank/Decorators_2_name_directory.py">
+    <entry file="file://$PROJECT_DIR$/data_structure/stack queue linked list/paren-balance-check.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="40" lean-forward="true" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
+        <state relative-caret-position="180">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Hacker_rank/armstrong.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="28" selection-start-column="19" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data_structure/stack queue linked list/linked_list.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
-          <caret line="55" selection-start-line="55" selection-end-line="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Hacker_rank/spark-test.py" />
-    <entry file="file://$PROJECT_DIR$/data_structure/stack queue linked list/circular-linked-list.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <marker date="1544609541949" expanded="true" signature="170:175" ph="..." />
-            <marker date="1544609541949" expanded="true" signature="254:558" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data_structure/stack queue linked list/circular_linked_list_class.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1095">
-          <caret line="73" selection-start-line="73" selection-end-line="73" />
-          <folding>
-            <marker date="1545212930426" expanded="true" signature="19:20" ph="..." />
-            <marker date="1545212930426" expanded="true" signature="19:25" ph="..." />
-            <marker date="1545212930426" expanded="true" signature="134:135" ph="..." />
-            <marker date="1545212930426" expanded="true" signature="134:140" ph="..." />
-            <marker date="1545212930426" expanded="true" signature="211:221" ph="..." />
-            <marker date="1545212930426" expanded="true" signature="1322:1332" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sphinx/_build/html/index.html">
+    <entry file="file://$PROJECT_DIR$/data_structure/stack queue linked list/stack_implementation.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/sphinx/index.html">
+    <entry file="file://$PROJECT_DIR$/performace_analysis/cprofile_program.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/performace_analysis/random_sort.profile">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/data_structure/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/performace_analysis/profilng.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sphinx/index.rst">
-      <provider selected="true" editor-type-id="restructured-text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data_structure/string_and_list/anagram.py">
+    <entry file="file://$PROJECT_DIR$/performace_analysis/decorator_to_time_analysis.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/code.html">
+    <entry file="file://$PROJECT_DIR$/performace_analysis/speed-check.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="26" column="61" selection-start-line="26" selection-start-column="61" selection-end-line="26" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/performace_analysis/cacheexample.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="15" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/socket.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="628">
+          <caret line="574" selection-start-line="574" selection-end-line="574" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problem-solving/sampledataset.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/sphinx/conf.py">
+    <entry file="file://$PROJECT_DIR$/problem-solving/modulas-check.py" />
+    <entry file="file://$PROJECT_DIR$/Twitter/email-check.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1897">
-          <caret line="16" column="39" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
+        <state relative-caret-position="308">
+          <caret line="86" column="35" selection-start-line="86" selection-start-column="35" selection-end-line="86" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Twitter/realtime-data-extraction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
           <folding>
-            <element signature="e#564#573#0" expanded="true" />
+            <element signature="e#0#43#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sphinx/code.rst">
-      <provider selected="true" editor-type-id="restructured-text-editor" />
+    <entry file="file://$PROJECT_DIR$/problem-solving/trending-word-check.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="19" column="42" lean-forward="true" selection-start-line="19" selection-start-column="42" selection-end-line="19" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problem-solving/hashing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="108" column="14" selection-start-line="108" selection-start-column="14" selection-end-line="108" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problem-solving/hasing-2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+          <folding>
+            <marker date="1550574519981" expanded="true" signature="27:33" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problem-solving/EgyptFraction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="30" selection-start-column="22" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problem-solving/hashing-3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="14" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="14" />
+          <folding>
+            <marker date="1550576902879" expanded="true" signature="32:144" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problem-solving/palindrome-check.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="33" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="33" />
+          <folding>
+            <marker date="1550540364922" expanded="true" signature="129:130" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problem-solving/extract_mail.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="36" column="32" lean-forward="true" selection-start-line="36" selection-start-column="32" selection-end-line="36" selection-end-column="32" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
