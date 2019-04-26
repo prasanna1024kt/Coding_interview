@@ -1,7 +1,7 @@
 def pair_sum(arr,k):
 
     if len(arr)<2:
-        return
+        return 0
     seen = set()
     out = set()
 
@@ -16,6 +16,6 @@ def pair_sum(arr,k):
 
 if __name__ == "__main__":
 
-    arr = [1,3,2,4,5,6]
+    arr = [2,3,1,2,4,3]
     k=7
     pair_sum(arr,k)

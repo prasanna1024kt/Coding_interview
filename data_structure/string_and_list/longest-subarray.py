@@ -21,6 +21,6 @@ def maxlongesteven(array):
 
 if __name__ == '__main__':
 
-    arr = [4,5,6,8,10,2,12,9,7]
+    arr = [2,3,1,2,4,3]
 
     print(maxlongesteven(arr))

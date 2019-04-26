@@ -31,3 +31,55 @@ Level : Level of the node "n" is the number of edges on the path from the root n
 Height : The height of the tree is equal to maximum level of any node in the tree.
 
 """
+
+def BinaryTree(root):
+    return [root,[],[]]
+
+def insertLeft(root,newValue):
+
+    val=root.pop(1)
+    print val
+    if len(val)>1:
+        root.insert(1,[newValue,val,[] ])
+        print root
+
+    else:
+        root.insert(1,[newValue,[],[]])
+        print root
+    return root
+
+def insertRight(root,newValue):
+
+    val=root.pop(2)
+
+    if len(val)>1:
+        root.insert(2,[newValue,[],val])
+    else:
+        root.insert(2,[newValue,[],[]])
+    return root
+
+def getRootValue(root):
+    return root[0]
+
+def setRootValue(root,newValue):
+
+    root[0]=newValue
+    return root
+
+def getLeftValue(root):
+
+    return root[1]
+
+
+def getRightValue(root):
+    return root[2]
+
+
+tree=BinaryTree(10)
+insertLeft(tree,12)
+insertLeft(tree,13)
+insertLeft(tree,14)
+# getLeftValue(tree)
+# insertRight(tree,13)
+
+#print tree
