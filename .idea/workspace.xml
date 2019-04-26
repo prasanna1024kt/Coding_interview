@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cce07337-eee4-4759-ae5e-87d513662de0" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/data_structure/Tree/TreeTraversal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_structure/Tree/Tree_implementation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problem-solving/min_swaps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problem-solving/minimum-unique-sum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problem-solving/search_element.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problem-solving/sendgrid-email-check.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problem-solving/students-separete.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_structure/Tree/tree-implementation.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_structure/Tree/tree_implementation_list.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_structure/string_and_list/array_pair_sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_structure/string_and_list/array_pair_sum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_structure/string_and_list/largest_continouse_sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_structure/string_and_list/largest_continouse_sum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_structure/string_and_list/longest-subarray.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_structure/string_and_list/longest-subarray.py" afterDir="false" />
-    </list>
+    <list default="true" id="cce07337-eee4-4759-ae5e-87d513662de0" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.idea/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -75,7 +61,7 @@
           <entry key="project.open.time.10" value="2" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.12" value="1" />
-          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.13" value="2" />
           <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.18" value="1" />
@@ -86,21 +72,21 @@
           <entry key="project.open.time.7" value="7" />
           <entry key="project.open.time.8" value="4" />
           <entry key="project.open.time.9" value="2" />
-          <entry key="project.opened" value="47" />
+          <entry key="project.opened" value="48" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Python Console" value="104" />
           <entry key="dummy" value="13" />
-          <entry key="py" value="17898" />
+          <entry key="py" value="17917" />
           <entry key="rst" value="713" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="13" />
-          <entry key="Python" value="18002" />
+          <entry key="Python" value="18021" />
           <entry key="ReST" value="713" />
         </counts>
       </usages-collector>
@@ -111,7 +97,7 @@
           <entry key="html" value="3" />
           <entry key="md" value="1" />
           <entry key="profile" value="1" />
-          <entry key="py" value="89" />
+          <entry key="py" value="93" />
           <entry key="rst" value="4" />
           <entry key="txt" value="3" />
         </counts>
@@ -122,7 +108,7 @@
           <entry key="HTML" value="3" />
           <entry key="Markdown" value="1" />
           <entry key="PLAIN_TEXT" value="9" />
-          <entry key="Python" value="89" />
+          <entry key="Python" value="93" />
           <entry key="ReST" value="4" />
         </counts>
       </usages-collector>
@@ -151,7 +137,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/problem-solving/minimum-unique-sum.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1335">
+            <state relative-caret-position="628">
               <caret line="89" column="18" selection-start-line="89" selection-start-column="18" selection-end-line="89" selection-end-column="18" />
             </state>
           </provider>
@@ -166,11 +152,47 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/data_structure/string_and_list/array_pair_sum.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
               <caret line="7" column="19" lean-forward="true" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/problem-solving/min_swaps.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="493">
+              <caret line="101" lean-forward="true" selection-start-line="101" selection-end-line="101" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/problem-solving/search_element.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/problem-solving/sendgrid-email-check.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="12" column="20" lean-forward="true" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/problem-solving/students-separete.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="836">
+              <caret line="56" selection-start-line="56" selection-end-line="56" />
             </state>
           </provider>
         </entry>
@@ -226,10 +248,7 @@
         <option value="$PROJECT_DIR$/problem-solving/hashing-3.py" />
         <option value="$PROJECT_DIR$/problem-solving/EgyptFraction.py" />
         <option value="$PROJECT_DIR$/problem-solving/extract_mail.py" />
-        <option value="$PROJECT_DIR$/problem-solving/sendgrid-email-check.py" />
-        <option value="$PROJECT_DIR$/problem-solving/students-separete.py" />
         <option value="$PROJECT_DIR$/problem-solving/minimum-unique-sum.py" />
-        <option value="$PROJECT_DIR$/problem-solving/min_swaps.py" />
         <option value="$PROJECT_DIR$/problem-solving/ptre.py" />
         <option value="$PROJECT_DIR$/data_structure/Tree/tree-implementation.py" />
         <option value="$PROJECT_DIR$/data_structure/Tree/tree_implementation_list.py" />
@@ -241,6 +260,9 @@
         <option value="$PROJECT_DIR$/data_structure/string_and_list/largest_continouse_sum.py" />
         <option value="$PROJECT_DIR$/data_structure/string_and_list/longest-subarray.py" />
         <option value="$PROJECT_DIR$/data_structure/string_and_list/array_pair_sum.py" />
+        <option value="$PROJECT_DIR$/problem-solving/sendgrid-email-check.py" />
+        <option value="$PROJECT_DIR$/problem-solving/students-separete.py" />
+        <option value="$PROJECT_DIR$/problem-solving/min_swaps.py" />
       </list>
     </option>
   </component>
@@ -273,11 +295,6 @@
               <item name="Data_structure_and_algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="data_structure" type="462c0819:PsiDirectoryNode" />
               <item name="string_and_list" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Data_structure_and_algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Data_structure_and_algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="Hacker_rank" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Data_structure_and_algorithm" type="b2602c69:ProjectViewProjectNode" />
@@ -591,7 +608,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="800" extended-state="1" />
+    <frame x="0" y="23" width="1440" height="800" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25440452" />
       <window_info id="Structure" order="1" weight="0.25" />
@@ -818,27 +836,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/problem-solving/students-separete.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="26" column="13" lean-forward="true" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/problem-solving/min_swaps.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="83">
-          <caret line="87" lean-forward="true" selection-start-line="87" selection-end-line="87" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/problem-solving/sendgrid-email-check.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/problem-solving/EgyptFraction.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
@@ -865,13 +862,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1440">
           <caret line="96" column="4" selection-start-line="96" selection-start-column="4" selection-end-line="96" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/problem-solving/search_element.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
@@ -906,13 +896,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/problem-solving/minimum-unique-sum.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1335">
-          <caret line="89" column="18" selection-start-line="89" selection-start-column="18" selection-end-line="89" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/data_structure/string_and_list/longest-subarray.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
@@ -924,6 +907,41 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="19" lean-forward="true" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problem-solving/search_element.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problem-solving/sendgrid-email-check.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="12" column="20" lean-forward="true" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problem-solving/students-separete.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="836">
+          <caret line="56" selection-start-line="56" selection-end-line="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problem-solving/minimum-unique-sum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="628">
+          <caret line="89" column="18" selection-start-line="89" selection-start-column="18" selection-end-line="89" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problem-solving/min_swaps.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="101" lean-forward="true" selection-start-line="101" selection-end-line="101" />
         </state>
       </provider>
     </entry>
