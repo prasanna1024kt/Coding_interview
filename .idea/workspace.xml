@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cce07337-eee4-4759-ae5e-87d513662de0" name="Default" comment="" />
+    <list default="true" id="cce07337-eee4-4759-ae5e-87d513662de0" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/pandas_json.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problem-solving/random_matrix_Creation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.idea/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -56,8 +60,8 @@
     <session id="612665058">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="46" />
-          <entry key="project.open.time.1" value="9" />
+          <entry key="project.closed" value="52" />
+          <entry key="project.open.time.1" value="11" />
           <entry key="project.open.time.10" value="2" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.12" value="1" />
@@ -68,25 +72,25 @@
           <entry key="project.open.time.2" value="3" />
           <entry key="project.open.time.4" value="2" />
           <entry key="project.open.time.5" value="8" />
-          <entry key="project.open.time.6" value="4" />
-          <entry key="project.open.time.7" value="7" />
-          <entry key="project.open.time.8" value="4" />
+          <entry key="project.open.time.6" value="5" />
+          <entry key="project.open.time.7" value="8" />
+          <entry key="project.open.time.8" value="5" />
           <entry key="project.open.time.9" value="2" />
-          <entry key="project.opened" value="48" />
+          <entry key="project.opened" value="53" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Python Console" value="104" />
           <entry key="dummy" value="13" />
-          <entry key="py" value="17917" />
+          <entry key="py" value="18114" />
           <entry key="rst" value="713" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="13" />
-          <entry key="Python" value="18021" />
+          <entry key="Python" value="18218" />
           <entry key="ReST" value="713" />
         </counts>
       </usages-collector>
@@ -97,7 +101,7 @@
           <entry key="html" value="3" />
           <entry key="md" value="1" />
           <entry key="profile" value="1" />
-          <entry key="py" value="93" />
+          <entry key="py" value="97" />
           <entry key="rst" value="4" />
           <entry key="txt" value="3" />
         </counts>
@@ -108,7 +112,7 @@
           <entry key="HTML" value="3" />
           <entry key="Markdown" value="1" />
           <entry key="PLAIN_TEXT" value="9" />
-          <entry key="Python" value="93" />
+          <entry key="Python" value="97" />
           <entry key="ReST" value="4" />
         </counts>
       </usages-collector>
@@ -116,33 +120,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/performace_analysis/decorator_to_time_analysis.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="20" selection-start-line="20" selection-end-line="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data_structure/string_and_list/largest_continouse_sum.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" selection-start-line="20" selection-end-line="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/problem-solving/minimum-unique-sum.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="628">
-              <caret line="89" column="18" selection-start-line="89" selection-start-column="18" selection-end-line="89" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/data_structure/string_and_list/longest-subarray.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -156,16 +133,58 @@
         <entry file="file://$PROJECT_DIR$/data_structure/string_and_list/array_pair_sum.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
-              <caret line="7" column="19" lean-forward="true" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+              <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/problem-solving/min_swaps.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1515">
+              <caret line="101" selection-start-line="101" selection-end-line="101" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Twitter/realtime-data-extraction.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="33" selection-start-line="33" selection-end-line="33" />
+              <folding>
+                <element signature="e#0#43#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/problem-solving/random_matrix_Creation.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/problem-solving/min_swaps.py">
+        <entry file="file://$PROJECT_DIR$/pandas_json.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="101" lean-forward="true" selection-start-line="101" selection-end-line="101" />
+            <state relative-caret-position="90">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Twitter/cred.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -183,7 +202,7 @@
         <entry file="file://$PROJECT_DIR$/problem-solving/sendgrid-email-check.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
-              <caret line="12" column="20" lean-forward="true" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+              <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -191,7 +210,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/problem-solving/students-separete.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="836">
+            <state relative-caret-position="840">
               <caret line="56" selection-start-line="56" selection-end-line="56" />
             </state>
           </provider>
@@ -212,9 +231,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/list_qn&amp;ans/string_compression.py" />
-        <option value="$PROJECT_DIR$/data_structure/reversal_linked_list.py" />
-        <option value="$PROJECT_DIR$/data_structure/circular-linked-list.py" />
         <option value="$PROJECT_DIR$/data_structure/circular_linked_list_class.py" />
         <option value="$PROJECT_DIR$/performace_analysis/time_analysis/decorator_to_time_analysis.py" />
         <option value="$PROJECT_DIR$/performace_analysis/time_analysis/cprofile_examples.py" />
@@ -238,7 +254,6 @@
         <option value="$PROJECT_DIR$/performace_analysis/profilng.py" />
         <option value="$PROJECT_DIR$/performace_analysis/speed-check.py" />
         <option value="$PROJECT_DIR$/performace_analysis/cacheexample.py" />
-        <option value="$PROJECT_DIR$/Twitter/realtime-data-extraction.py" />
         <option value="$PROJECT_DIR$/Twitter/email-check.py" />
         <option value="$PROJECT_DIR$/problem-solving/trending-word-check.py" />
         <option value="$PROJECT_DIR$/problem-solving/modulas-check.py" />
@@ -263,6 +278,10 @@
         <option value="$PROJECT_DIR$/problem-solving/sendgrid-email-check.py" />
         <option value="$PROJECT_DIR$/problem-solving/students-separete.py" />
         <option value="$PROJECT_DIR$/problem-solving/min_swaps.py" />
+        <option value="$PROJECT_DIR$/Twitter/cred.py" />
+        <option value="$PROJECT_DIR$/Twitter/realtime-data-extraction.py" />
+        <option value="$PROJECT_DIR$/problem-solving/random_matrix_Creation.py" />
+        <option value="$PROJECT_DIR$/pandas_json.py" />
       </list>
     </option>
   </component>
@@ -277,7 +296,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -288,23 +306,13 @@
             <path>
               <item name="Data_structure_and_algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="Data_structure_and_algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="data_structure" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Data_structure_and_algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Data_structure_and_algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="data_structure" type="462c0819:PsiDirectoryNode" />
-              <item name="string_and_list" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Data_structure_and_algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Data_structure_and_algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="problem-solving" type="462c0819:PsiDirectoryNode" />
+              <item name="Twitter" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -339,7 +347,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.longest-subarray">
+  <component name="RunManager" selected="Python.random_matrix_Creation">
     <configuration default="true" type="OdpsPythonConfigurationType" factoryName="MaxCompute Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -363,27 +371,6 @@
       <option name="MAIN_CLASS" value="" />
       <option name="RECORD_LIMIT" value="100" />
       <method />
-    </configuration>
-    <configuration name="Tree_implementation" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Data_structure_and_algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data_structure/Tree" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data_structure/Tree/Tree_implementation.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
     </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="Coding practice" />
@@ -461,6 +448,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data_structure/string_and_list/longest-subarray.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="random_matrix_Creation" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Data_structure_and_algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/problem-solving" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/problem-solving/random_matrix_Creation.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -578,19 +586,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Tree_implementation" />
       <item itemvalue="Python.test" />
       <item itemvalue="Python.largest_continouse_sum" />
       <item itemvalue="Python.longest-subarray" />
       <item itemvalue="Python.array_pair_sum" />
+      <item itemvalue="Python.random_matrix_Creation" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.random_matrix_Creation" />
         <item itemvalue="Python.longest-subarray" />
         <item itemvalue="Python.largest_continouse_sum" />
         <item itemvalue="Python.array_pair_sum" />
         <item itemvalue="Python.test" />
-        <item itemvalue="Python.Tree_implementation" />
       </list>
     </recent_temporary>
   </component>
@@ -609,9 +617,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="800" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25440452" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25440452" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Project Explorer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -683,15 +690,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/sphinx/conf.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1185">
-          <caret line="80" column="23" selection-start-line="80" selection-start-column="14" selection-end-line="80" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/performace_analysis/checkfile.py" />
-    <entry file="file://$PROJECT_DIR$/performace_analysis/claning_file.csv" />
     <entry file="file://$PROJECT_DIR$/performace_analysis/krux_file1.csv" />
     <entry file="file://$PROJECT_DIR$/performace_analysis/krux_cleaned-file1.csv" />
     <entry file="file://$PROJECT_DIR$/performace_analysis/krux_cleaned-file.csv" />
@@ -763,13 +761,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
           <caret line="86" column="35" selection-start-line="86" selection-start-column="35" selection-end-line="86" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Twitter/realtime-data-extraction.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
@@ -896,6 +887,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/problem-solving/minimum-unique-sum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1335">
+          <caret line="89" column="18" selection-start-line="89" selection-start-column="18" selection-end-line="89" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/data_structure/string_and_list/longest-subarray.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
@@ -906,7 +904,41 @@
     <entry file="file://$PROJECT_DIR$/data_structure/string_and_list/array_pair_sum.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
-          <caret line="7" column="19" lean-forward="true" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problem-solving/min_swaps.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1515">
+          <caret line="101" selection-start-line="101" selection-end-line="101" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Twitter/realtime-data-extraction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problem-solving/random_matrix_Creation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Twitter/cred.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
         </state>
       </provider>
     </entry>
@@ -920,28 +952,21 @@
     <entry file="file://$PROJECT_DIR$/problem-solving/sendgrid-email-check.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
-          <caret line="12" column="20" lean-forward="true" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+          <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/problem-solving/students-separete.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="836">
+        <state relative-caret-position="840">
           <caret line="56" selection-start-line="56" selection-end-line="56" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/problem-solving/minimum-unique-sum.py">
+    <entry file="file://$PROJECT_DIR$/pandas_json.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="628">
-          <caret line="89" column="18" selection-start-line="89" selection-start-column="18" selection-end-line="89" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/problem-solving/min_swaps.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="101" lean-forward="true" selection-start-line="101" selection-end-line="101" />
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
